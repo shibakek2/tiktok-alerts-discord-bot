@@ -33,5 +33,5 @@ This project is a Discord bot that integrates with TikTok Live to send various l
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shibakek2/tiktok-discord-integration.git
+   git clone [GitHub Repository](https://github.com/shibakek2/tiktok-discord-integration-)
    cd tiktok-discord-bot
